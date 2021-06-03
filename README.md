@@ -50,4 +50,4 @@ The US Census Bureau has published earnings and employment outcomes for post-sec
 #### Abstract
 
 The talk will focus on the implementation of differential privacy used to protect the data products in the 2020 Census of Population and Housing. I present a high-level overview of the design used for key data products, known as the TopDown Algorithm. I focus on the high-level policy and technical challenges that the U.S. Census Bureau faced during the implementation including the original science embodied in that algorithm, implementation challenges arising from the production constraints, formalizing policies about privacy-loss budgets, communicating the effects of the algorithms on the final data products, and balancing competing data users' interests against the inherent privacy loss associated with detailed data publicati
-- Prof. John Abowd (US Census Bureau)
+
