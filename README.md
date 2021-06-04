@@ -49,7 +49,7 @@ This talk will describe the privacy technologyused to safely report on the earni
 
 ### Speaker: Prof. Jörg Drechsler (Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit, Germany)
 
-#### Title: (pending)
+#### Title: Differential Privacy for Geocoded Data
 
 #### Abstract
 
