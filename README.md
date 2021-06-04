@@ -1,5 +1,11 @@
 # Session at ISI WSC 2021: Formal privacy methods in NSO: Challenges and Solutions
 
+## Time and Location
+
+Fri 15:00-16:30 (UTC+2)
+
+Virtual.
+
 ## Chair
 
 Dr. Lars Vilhuber (Cornell University)
