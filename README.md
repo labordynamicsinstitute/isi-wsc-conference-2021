@@ -68,6 +68,8 @@ In this talk we evaluate if the concept of differential privacy can be used to d
 
 The US Census Bureau has published earnings and employment outcomes for post-secondary graduates based on matches to earnings records found in the Unemployment Insurance wage records. However, many outside parties have access to a partial match of the population under study, since many states have matched their graduate records to unemployment insurance wage records within the state. This outside data access meant that legacy confidentiality methods would not sufficiently protect the microdata, and had the potential to expose other methods in the process. Formal privacy methods were implemented to release both earnings and employment outcomes, and the method developed to protect the earnings method allows for flexibility in which moments of a distribution an agency can release, as well as straightforward aggregations of categories. I discuss how the formal privacy system was implemented, how to apply it to different settings, and how it performs compared to other candidate protection systems. 
 
+- [Slides](2021-0716-Foote-IPS-161-WSC.pptx)
+
 
 ### Speaker: John M. Abowd, Chief Scientist and Associate Director for Research and Methodology, U.S. Census Bureau
 
