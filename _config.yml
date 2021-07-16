@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "Formal privacy methods in NSO: Challenges and Solutions"
+description: "Statistical agencies and tech giants are rapidly adopting formal privacy models, including differential privacy, which make the tradeoff between privacy and data quality precise. These methods have offered the promise of greater ability to release detailed data, while providing better control over the privacy loss associated with any data publication. These methods are novel, and as with any novel technology, implementation can be challenging. NSOs have spent decades refining and applying traditional disclosure limitation methods. The papers in this session report on practical implementations of formal privacy methods, the challenges faced, the advantages and disadvantages assessed."
+logo: isi2021.png
+show_downloads: false

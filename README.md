@@ -1,6 +1,4 @@
-# Session at ISI WSC 2021: Formal privacy methods in NSO: Challenges and Solutions
-
-![ISI 2021 logo](isi2021.png)
+# Session at ISI WSC 2021
 
 ## Time and Location
 
