@@ -1,5 +1,7 @@
 # Session at ISI WSC 2021: Formal privacy methods in NSO: Challenges and Solutions
 
+![ISI 2021 logo](isi2021.png)
+
 ## Time and Location
 
 Fri July 16, 2021, 14:00-15:30 (BST, UTC+1)
